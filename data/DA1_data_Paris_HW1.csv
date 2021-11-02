@@ -1,0 +1,27 @@
+ID,Name,Price_sport,Price_cola,Address,District,Type,Google_rating,Distance_from_centre
+1,Tesco express,115.0,275,"Budapest, Erzsébet királyné útja 125, 1142",District 14,Supermarket,3.6,5164.983644321833
+2,Real,119.0,329,"Budapest, Zsolnay Vilmos u. 1, 1147",District 14,Small shop,3.7,6697.010712479748
+3,MOL,289.0,449,"Budapest, Csömöri út 27, 1147",District 14,Gas station,4.2,5492.471502495968
+4,Coop mini,109.0,279,"Budapest, Bosnyák tér 18, 1149",District 14,Small shop,3.4,5335.873660564722
+5,Piac,90.0,250,"Budapest, Bosnyák tér 29, 1149",District 14,Market,4.3,5335.873660564722
+6,Prémium Élelmiszer,105.0,329,"Budapest, Szugló u. 79, 1145",District 14,Small shop,3.8,4880.920485053123
+7,Sarki abc,99.0,299,"Budapest, Angol utca 38, 1149",District 14,Small shop,4.9,5365.989309305441
+8,Aldi,109.0,259,"Budapest, Szugló utca 60, 1145",District 14,Supermarket,4.3,5238.392425404418
+9,Nemzeti dohánybolt,,310,"Budapest, Varsó u. 1, 1145",District 14,Tobacco shop,4.2,4964.182539279916
+10,Tesco express,115.0,275,"Budapest, Thököly út 151, 1146",District 14,Supermarket,3.5,4601.169398506549
+11,OMW Spar express,155.0,305,"Budapest, Kacsóh Pongrác út 131, 1142",District 14,Gas station,4.3,5481.913678430056
+12,Spar,129.0,269,"Budapest, Ungvár u. 50, 1142",District 14,Supermarket,3.8,5657.998769569405
+13,Hunyadi super discount,90.0,280,"Budapest, Hunyadi tér 4, 1067",District 6,Supermarket,4.1,1587.880828319572
+14,Eotvos vegyesbolt,90.0,280,"Budapest, Eötvös u. 6, 1067",District 6,Grocery store,5.0,1433.8293351392633
+15,Market point,119.0,299,"Budapest, Teréz körút 12, 1066",District 6,Supermarket,4.4,1310.2864684620108
+16,Spar,109.0,259,"Budapest, Teréz körút 2, 1066",District 6,Supermarket,3.5,1392.8691778077475
+17,ABC RONI,159.0,319,"Budapest, Aradi u. 4, 1062",District 6,Small shop,4.0,1290.9933003200413
+18,Spar,89.0,259,"Budapest, Teréz körút. 28, 1066",District 6,Supermarket,3.9,1310.2864684620108
+19,EU group,85.0,299,"Budapest, Teréz körút. 36, 1066",District 6,Department store,4.0,1392.8691778077475
+20,CBA Prima,109.0,339,"Budapest, Teréz körút 54, 1062",District 6,Small shop,3.9,1361.9762974359492
+21,Roni ABC,159.0,319,"Budapest, Bajcsy-Zsilinszky út 15, 1065",District 6,Supermarket,3.5,574.4405436436955
+22,Spar,109.0,259,"Budapest, Andrássy út 30, 1061",District 6,Supermarket,3.8,1542.837582275356
+23,Elelmiszer,150.0,350,"Budapest, Nagymező u. 4, 1065",District 6,Small shop,,997.2848748905222
+24,Tesco,115.0,275,"Budapest, Teréz körút 55, 1062",District 6,Supermarket,3.7,1361.9762974359492
+25,Beni Csemege kft,119.0,320,"Budapest, Izabella utca 96, 1064",District 6,Grocery store,3.9,1709.8362095539774
+26,Fillereres uzlet,115.0,269,"Budapest, Izabella utca 81, 1064",District 6,Convenience store,5.0,1709.1566892929013
